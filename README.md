@@ -22,3 +22,4 @@ curl --user ignored:<PASSPHRASE> -X PUT https://mighty-owl-production.up.railway
 You now have your own Quirrel instance 🥳
 
 Net step: [Connecting your application](https://docs.quirrel.dev/deploying).
+,

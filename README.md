@@ -23,3 +23,4 @@ You now have your own Quirrel instance 🥳
 
 Net step: [Connecting your application](https://docs.quirrel.dev/deploying).
 ,
+
